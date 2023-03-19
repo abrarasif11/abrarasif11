@@ -22,9 +22,6 @@ Are you looking for a skilled and dedicated person in Web development? Do not fe
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarasif11&show_icons=true&locale=en&layout=compact" alt="abrarasif11" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abrarasif11)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=abrarasif11)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarasif11&show_icons=true&locale=en" alt="abrarasif11" /></p>
 
 ![Profile views](https://gpvc.arturio.dev/abrarasif11)  
