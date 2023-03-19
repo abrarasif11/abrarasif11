@@ -20,6 +20,7 @@ Are you looking for a skilled and dedicated person in Web development? Do not fe
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fahim-abrar-asif-2601a6244//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100033935625002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ig_reznov_/)  
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarasif11&show_icons=true&locale=en&layout=compact" alt="abrarasif11" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abrarasif11)](https://github.com/ryo-ma/github-profile-trophy)
 
