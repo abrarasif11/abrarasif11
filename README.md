@@ -33,4 +33,4 @@ Are you looking for a skilled and dedicated person in Web development? Do not fe
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarasif11&show_icons=true&locale=en" alt="abrarasif11" /></p>
 
-![Profile views](https://gpvc.arturio.dev/abrarasif11)  
+ 
