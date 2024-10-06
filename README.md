@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/FahimAbrarAsif1" target="blank"><img src="https://img.shields.io/twitter/follow/fahim-abrar-asif?logo=twitter&style=for-the-badge" alt="fahim-abrar-asif" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/abrarasif11=Profile%20views&color=0e75b6&style=flat" alt="abrarasif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username="abrarasif11" alt="abrarasif" /> </p>
 
 Are you looking for a skilled and dedicated person in Web development? Do not feel hesitated to knock me anytime. As a web developer, I can play the best role for a MERN Stack based work environment. But no worries, with my quick learning ability and great communication skill, I can get adapted with the latest technology roaming around the world very easily and make your work done within your deadline.
 
