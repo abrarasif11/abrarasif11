@@ -1,10 +1,10 @@
 
-![A dedicated MERN developer from Bangladesh.](https://media.licdn.com/dms/image/D5616AQF-hvM9TgTxkA/profile-displaybackgroundimage-shrink_350_1400/0/1670562476811?e=1700092800&v=beta&t=osN2Zu1kd4DGNcCql9a8VD6XavuhEaHbJ52f3lAO8M8)
+![A dedicated MERN developer from Bangladesh.][(https://media.licdn.com/dms/image/D5616AQF-hvM9TgTxkA/profile-displaybackgroundimage-shrink_350_1400/0/1670562476811?e=1700092800&v=beta&t=osN2Zu1kd4DGNcCql9a8VD6XavuhEaHbJ52f3lAO8M8)](https://media.licdn.com/dms/image/v2/D5616AQF-hvM9TgTxkA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1670562477921?e=1733961600&v=beta&t=nWL2sDbmEoeuYuQPG_Rg5xMe3M-hdueK-i1A4Kvao9k)
 
 <h1 align="center">Hi 👋 I am MD. Fahim Abrar Asif</h1>
 <h3 align="center">A dedicated MERN developer from Bangladesh.</h3>
  
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://media.licdn.com/dms/image/v2/D5616AQF-hvM9TgTxkA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1670562477921?e=1733961600&v=beta&t=nWL2sDbmEoeuYuQPG_Rg5xMe3M-hdueK-i1A4Kvao9k)">
+
 
 <p align="left"> <a href="https://twitter.com/FahimAbrarAsif1" target="blank"><img src="https://img.shields.io/twitter/follow/fahim-abrar-asif?logo=twitter&style=for-the-badge" alt="fahim-abrar-asif" /></a> </p>
 
