@@ -31,7 +31,7 @@ Are you looking for a skilled and dedicated person in Web development? Do not fe
 </p>
 
 
-<<h2>Coding Stats:</h2>
+<h2>Coding Stats:</h2>
 
 ###
 
