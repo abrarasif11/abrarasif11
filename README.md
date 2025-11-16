@@ -16,7 +16,7 @@ Are you looking for a skilled and dedicated person in Web development? Do not fe
  </a> </p>
 
 
-- 🌱 I’m currently learning Postgre SQL 
+- 🌱 I’m currently learning Postgre SQL and Prisma
 - 💬 Ask me about React ,Node, JavaScript , HTML , CSS 
 - 📫 How to reach me: fahimabrarasif@gmail.com 
 
