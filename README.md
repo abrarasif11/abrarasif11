@@ -43,6 +43,6 @@ Are you looking for a skilled and dedicated person in Web development? Do not fe
 <div align="left">
  
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarasif11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&custom_title=Programming%20Languages" height="150" alt="languages graph"  />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarasif11&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 </div>
  
