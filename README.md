@@ -10,24 +10,7 @@
 
 Are you looking for a skilled and dedicated person in Web development? Do not feel hesitated to knock me anytime. As a web developer, I can play the best role for a MERN Stack based work environment. But no worries, with my quick learning ability and great communication skill, I can get adapted with the latest technology roaming around the world very easily and make your work done within your deadline.
 <h3 align="left">Languages and Tools:</h3>
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-8px); }
-  100% { transform: translateY(0px); }
-}
 
-.tech-icon {
-  display: inline-block;
-  margin: 6px;
-  animation: float 3s ease-in-out infinite;
-  transition: transform 0.2s;
-}
-
-.tech-icon:hover {
-  transform: scale(1.2);
-}
-</style>
 
 <p align="left">
 
