@@ -9,7 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarasif11&label=Profile%20views&color=0e75b6&style=flat" alt="abrarasif11" /> </p>
 
 Are you looking for a skilled and dedicated person in Web development? Do not feel hesitated to knock me anytime. As a web developer, I can play the best role for a MERN Stack based work environment. But no worries, with my quick learning ability and great communication skill, I can get adapted with the latest technology roaming around the world very easily and make your work done within your deadline.
-
 <h3 align="left">Languages and Tools:</h3>
 <style>
 @keyframes float {
