@@ -10,8 +10,48 @@
 
 Are you looking for a skilled and dedicated person in Web development? Do not feel hesitated to knock me anytime. As a web developer, I can play the best role for a MERN Stack based work environment. But no worries, with my quick learning ability and great communication skill, I can get adapted with the latest technology roaming around the world very easily and make your work done within your deadline.
 <h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <!-- Bootstrap --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" /> <!-- C++ --> <img src="https://svgshare.com/i/10Fv.svg" width="45" /> <!-- C --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" /> <!-- CSS --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" /> <!-- Express --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" /> <!-- Git --> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" /> <!-- JavaScript --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" /> <!-- Firebase --> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" /> <!-- HTML --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" /> <!-- Java --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" /> <!-- MongoDB --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" /> <!-- NodeJS --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" /> <!-- Python --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" /> <!-- React --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" /> <!-- Tailwind --> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" /> <!-- Photoshop --> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="45" /> <!-- PostgreSQL --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" /> <!-- Prisma --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="45" /> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="Prisma" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
+  <!-- <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux" /> -->
+  <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="Material UI" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VSCode" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React" />
+  <!-- <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="Next.js" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=redux" height="30" alt="Redux" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=sass" height="30" alt="SASS" /> -->
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite" />
+  <!-- <img src="https://skillicons.dev/icons?i=redis" height="30" alt="Redis" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=bash" height="30" alt="Bash" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="Cloudflare" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=jest" height="30" alt="Jest" /> -->
+  <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="Netlify" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="Photoshop" />
+  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="Premiere Pro" />
+  <!-- <img src="https://skillicons.dev/icons?i=ai" height="30" alt="Illustrator" /> -->
+  <!-- <img src="https://i.ibb.co.com/QhNjCPD/capcut-app-logo.png" height="30" width ="30"  alt="CapCut" /> -->
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/512px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" height="30" width ="30"  alt="Lightroom" /> -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg.png" height="30" width ="30" alt="Draw.io" />
+  <!-- <img src="https://skillicons.dev/icons?i=jira" height="30" width ="30" alt="Jira" /> -->
+</p>
 
 
 - 🌱 I’m currently learning Postgre SQL and Prisma
