@@ -47,7 +47,6 @@ Are you looking for a skilled and dedicated person in Web development? Do not fe
   <!-- <img src="https://i.ibb.co.com/QhNjCPD/capcut-app-logo.png" height="30" width ="30"  alt="CapCut" /> -->
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/512px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" height="30" width ="30"  alt="Lightroom" /> -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg.png" height="30" width ="30" alt="Draw.io" />
-  <!-- <img src="https://skillicons.dev/icons?i=jira" height="30" width ="30" alt="Jira" /> -->
 </p>
 
 
