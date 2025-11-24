@@ -36,7 +36,6 @@ Are you looking for a skilled and dedicated person in Web development? Do not fe
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="Vercel" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite" />
-  <!-- <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="Cloudflare" /> -->
   <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="Netlify" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="Photoshop" />
   <img src="https://skillicons.dev/icons?i=pr" height="30" alt="Premiere Pro" />
