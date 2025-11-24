@@ -17,6 +17,7 @@ Are you looking for a skilled and dedicated person in Web development? Do not fe
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" />
