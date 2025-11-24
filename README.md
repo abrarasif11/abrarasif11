@@ -39,7 +39,6 @@ Are you looking for a skilled and dedicated person in Web development? Do not fe
   <!-- <img src="https://skillicons.dev/icons?i=redis" height="30" alt="Redis" /> -->
   <!-- <img src="https://skillicons.dev/icons?i=bash" height="30" alt="Bash" /> -->
   <!-- <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="Cloudflare" /> -->
-  <!-- <img src="https://skillicons.dev/icons?i=jest" height="30" alt="Jest" /> -->
   <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="Netlify" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="Photoshop" />
   <img src="https://skillicons.dev/icons?i=pr" height="30" alt="Premiere Pro" />
