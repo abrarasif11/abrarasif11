@@ -43,7 +43,6 @@ Are you looking for a skilled and dedicated person in Web development? Do not fe
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg.png" height="30" width ="30" alt="Draw.io" />
 </p>
 
-
 - 🌱 I’m currently learning Postgre SQL and Prisma
 - 💬 Ask me about React ,Node, JavaScript , HTML , CSS 
 - 📫 How to reach me: fahimabrarasif@gmail.com 
