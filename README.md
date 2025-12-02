@@ -54,8 +54,11 @@ Are you looking for a skilled and dedicated person in Web development? Do not fe
 <a href="https://www.facebook.com/profile.php?id=100033935625002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100033935625002" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ig_reznov_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ig_reznov_/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/fahimabrarasif" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="30" width="40" alt="codeforces"/>
+  <img align="center"
+       src="https://art.npanuhin.me/SVG/Codeforces/Codeforces-logo-colour.svg"
+       height="30" width="40" alt="Codeforces"/>
 </a>
+
 
 
 </p>
