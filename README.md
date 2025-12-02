@@ -56,7 +56,6 @@ Are you looking for a skilled and dedicated person in Web development? Do not fe
 <a href="https://codeforces.com/profile/fahimabrarasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bad_bunny786" height="30" width="40" /></a>
 
 
-
 </p>
 
 <h2>Coding Stats:</h2>
