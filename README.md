@@ -57,15 +57,19 @@ Are you looking for a skilled and dedicated person in Web development? Do not fe
 
 </p>
 
-## Coding Stats:
+## 📊 Coding Stats
 
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrarasif11&show_icons=true&locale=en&theme=swift&cache_seconds=7200" alt="abrarasif11" />
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=abrarasif11&show_icons=true&theme=swift" 
+       alt="GitHub Stats"
+  />
 </p>
 
-<div align="left">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarasif11&layout=compact&langs_count=10&cache_seconds=7200)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarasif11&layout=compact&langs_count=10" 
+       alt="Top Languages"
+  />
+</p>
 
