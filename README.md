@@ -66,7 +66,7 @@ Are you looking for a skilled and dedicated person in Web development? Do not fe
   />
 </p>
 
-<p align="center">
+<p align="">
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarasif11&layout=compact&langs_count=10" 
        alt="Top Languages"
