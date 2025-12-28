@@ -26,7 +26,7 @@ Are you looking for a skilled and dedicated person in Web development? Do not fe
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="Express.js" />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="Firebase" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
-  <!-- <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker" /> -->
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="Material UI" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VSCode" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB" />
