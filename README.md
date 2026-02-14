@@ -1,6 +1,6 @@
 ![👋 Hi, my name is MD Fahim Abrar Asif](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)<h1 align="center">Hi 👋 I am MD. Fahim Abrar Asif</h1>
 
-<h3 align="center">A dedicated MERN developer from Bangladesh.</h3>
+<h3 align="center">Hi! I’m Fahim Abrar Asif, a Full-Stack Developer based in Bangladesh with a passion for building clean, efficient and scalable web applications. I enjoy tackling challenges across both frontend and backend development, constantly learning new technologies to deliver high-quality solutions.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarasif11&label=Profile%20views&color=0e75b6&style=flat" alt="abrarasif11" /> </p>
 
-Are you looking for a skilled and dedicated person in Web development? Do not feel hesitated to knock me anytime. As a web developer, I can play the best role for a MERN Stack based work environment. But no worries, with my quick learning ability and great communication skill, I can get adapted with the latest technology roaming around the world very easily and make your work done within your deadline.
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript" />
