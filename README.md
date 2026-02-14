@@ -43,9 +43,25 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg.png" height="30" width ="30" alt="Draw.io" />
 </p>
 
-- 🌱 I’m currently learning Typescript, Postgre SQL and Prisma
-- 💬 Ask me about React ,Node, JavaScript , HTML , CSS 
-- 📫 How to reach me: fahimabrarasif@gmail.com 
+ 🌱 I’m currently learning :
+- TypeScript – for type-safe JavaScript
+- PostgreSQL – relational database management
+- Prisma – modern ORM for Node.js
+
+💻 Skills
+- Frontend: React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
+- Backend: Node.js, Express.js, REST APIs, Authentication & Authorization
+- Database: MongoDB, PostgreSQL, Prisma ORM
+- Tools & Others: Git, GitHub, Postman, Firebase, Agile workflow
+
+💬 Ask Me About
+- Full-Stack Web Development
+- React, Node.js, JavaScript
+- Database design, API integration and project architecture
+
+📫 Contact Me
+
+Email: fahimabrarasif@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
